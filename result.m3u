@@ -971,4 +971,13 @@ https://stream1.freetv.fun/sky-news-11.ctv sky news
 https://stream1.freetv.fun/1198d945e25e3b95874e771544df63a5171790f31294200c11c9c78c11284327.ctv
 #EXTINF:-1 group-title="📺叽叽歪歪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TLC.png",TLC
 https://stream1.freetv.fun/tlc-9.ctv
-
+#EXTINF:-1 group-title="📺叽叽歪歪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Racing.com.png",Racing.com
+https://stream1.freetv.fun/0e69f9b25cf2df94dcdb84eb8cd06d99b42da3d98ab49a3e668aa1e8920fea1a.m3u8
+#EXTINF:-1 group-title="📺叽叽歪歪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Bravo.png",Bravo.com
+https://stream1.freetv.fun/dd8899ddbfb36517a2093ff0b50cf7db588beebb0217c922c325cd46a27007f1.ctv
+#EXTINF:-1 group-title="📺叽叽歪歪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Bravo.png",Bravo.com
+https://stream1.freetv.fun/bravo-1.ctv
+#EXTINF:-1 group-title="📺叽叽歪歪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Fashion TV.png",Fashion TV
+https://stream1.freetv.fun/8c70c40b46aae42aa879202c4e56f8b9aacd4bbe6053fea5e7b8fad8d2970826.m3u8
+#EXTINF:-1 group-title="📺叽叽歪歪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Lifetime.png",Lifetime
+https://stream1.freetv.fun/lifetime-9.m3u8
