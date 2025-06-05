@@ -967,4 +967,8 @@ https://stream1.freetv.fun/cnn-14.ctv cnn
 https://stream1.freetv.fun/cba54542363cd2d0c456b08ef00a73c7895a217cc512a19cd38b5ec27d6530a1.ctv
 #EXTINF:-1 group-title="📺叽叽歪歪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/SKY NEWS.png",SKY NEWS
 https://stream1.freetv.fun/sky-news-11.ctv sky news
+#EXTINF:-1 group-title="📺叽叽歪歪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TLC.png",TLC
+https://stream1.freetv.fun/1198d945e25e3b95874e771544df63a5171790f31294200c11c9c78c11284327.ctv
+#EXTINF:-1 group-title="📺叽叽歪歪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TLC.png",TLC
+https://stream1.freetv.fun/tlc-9.ctv
 
