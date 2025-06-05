@@ -1019,19 +1019,5 @@ https://stream1.freetv.fun/yan-zhou-jing-sai-27.ctv
 https://stream1.freetv.fun/yan-zhou-jing-sai-37.m3u8
 #EXTINF:-1 group-title="🏀体育频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州竞赛.png",广州竞赛
 https://stream1.freetv.fun/yan-zhou-jing-sai-26.ctv
-#EXTINF:-1 tvg-name="https://stream1.freetv.fun/91d05755360b8af603ed97c71443e2d525c87eede45984b53c1f366ecdfa2653.ctv ABCAUSTRALIA" tvg-logo="https://live.fanmingming.cn/tv/https://stream1.freetv.fun/91d05755360b8af603ed97c71443e2d525c87eede45984b53c1f366ecdfa2653.ctv ABCAUSTRALIA.png",https://stream1.freetv.fun/91d05755360b8af603ed97c71443e2d525c87eede45984b53c1f366ecdfa2653.ctv ABCAUSTRALIA
-undefined
-#EXTINF:-1 tvg-name="https://stream1.freetv.fun/9245d5d7420f7ebdb2b38f1a6535b60adf0e7576dea62f5ea8ef467f82421517.ctv fox news" tvg-logo="https://live.fanmingming.cn/tv/https://stream1.freetv.fun/9245d5d7420f7ebdb2b38f1a6535b60adf0e7576dea62f5ea8ef467f82421517.ctv fox news.png",https://stream1.freetv.fun/9245d5d7420f7ebdb2b38f1a6535b60adf0e7576dea62f5ea8ef467f82421517.ctv fox news
-undefined
-#EXTINF:-1 tvg-name="https://stream1.freetv.fun/3255554fc258a66719756943e9c2eed21d3a68cf81523f3742dfaef321e77273.ctv bbc news" tvg-logo="https://live.fanmingming.cn/tv/https://stream1.freetv.fun/3255554fc258a66719756943e9c2eed21d3a68cf81523f3742dfaef321e77273.ctv bbc news.png",https://stream1.freetv.fun/3255554fc258a66719756943e9c2eed21d3a68cf81523f3742dfaef321e77273.ctv bbc news
-undefined
-#EXTINF:-1 tvg-name="https://stream1.freetv.fun/bbc-news-2.ctv bbc news" tvg-logo="https://live.fanmingming.cn/tv/https://stream1.freetv.fun/bbc-news-2.ctv bbc news.png",https://stream1.freetv.fun/bbc-news-2.ctv bbc news
-undefined
-#EXTINF:-1 tvg-name="https://stream1.freetv.fun/890cfa85aaadf252333f2365066a8ab7f51dbc0e43b223073b43308275ec856f.ctv cnn" tvg-logo="https://live.fanmingming.cn/tv/https://stream1.freetv.fun/890cfa85aaadf252333f2365066a8ab7f51dbc0e43b223073b43308275ec856f.ctv cnn.png",https://stream1.freetv.fun/890cfa85aaadf252333f2365066a8ab7f51dbc0e43b223073b43308275ec856f.ctv cnn
-undefined
-#EXTINF:-1 tvg-name="https://stream1.freetv.fun/cnn-14.ctv cnn" tvg-logo="https://live.fanmingming.cn/tv/https://stream1.freetv.fun/cnn-14.ctv cnn.png",https://stream1.freetv.fun/cnn-14.ctv cnn
-undefined
-#EXTINF:-1 tvg-name="https://stream1.freetv.fun/cba54542363cd2d0c456b08ef00a73c7895a217cc512a19cd38b5ec27d6530a1.ctv sky news" tvg-logo="https://live.fanmingming.cn/tv/https://stream1.freetv.fun/cba54542363cd2d0c456b08ef00a73c7895a217cc512a19cd38b5ec27d6530a1.ctv sky news.png",https://stream1.freetv.fun/cba54542363cd2d0c456b08ef00a73c7895a217cc512a19cd38b5ec27d6530a1.ctv sky news
-undefined
-#EXTINF:-1 tvg-name="https://stream1.freetv.fun/sky-news-11.ctv sky news" tvg-logo="https://live.fanmingming.cn/tv/https://stream1.freetv.fun/sky-news-11.ctv sky news.png",https://stream1.freetv.fun/sky-news-11.ctv sky news
-undefined
+#EXTINF:-1 group-title="📺今天地球怎么样啦" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ABC AUSTRALIA.png",ABC AUSTRALIA
+https://stream1.freetv.fun/91d05755360b8af603ed97c71443e2d525c87eede45984b53c1f366ecdfa2653.ctv
