@@ -953,6 +953,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 #EXTINF:-1 group-title="📺叽叽歪歪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ABC AUSTRALIA.png",ABC AUSTRALIA
 https://stream1.freetv.fun/91d05755360b8af603ed97c71443e2d525c87eede45984b53c1f366ecdfa2653.ctv
+#EXTINF:-1 group-title="📺叽叽歪歪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ABC AUSTRALIA.png",ABC AUSTRALIA
+https://stream1.freetv.fun/abc-australia-9.ctv
 #EXTINF:-1 group-title="📺叽叽歪歪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/FOX.png",FOX
 https://stream1.freetv.fun/9245d5d7420f7ebdb2b38f1a6535b60adf0e7576dea62f5ea8ef467f82421517.ctv
 #EXTINF:-1 group-title="📺叽叽歪歪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/FOX.png",FOX
