@@ -981,3 +981,29 @@ https://stream1.freetv.fun/bravo-1.ctv
 https://stream1.freetv.fun/8c70c40b46aae42aa879202c4e56f8b9aacd4bbe6053fea5e7b8fad8d2970826.m3u8
 #EXTINF:-1 group-title="📺叽叽歪歪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Lifetime.png",Lifetime
 https://stream1.freetv.fun/lifetime-9.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="📺靠谱线路",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="📺靠谱线路",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="📺靠谱线路",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="📺靠谱线路",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png" group-title="📺靠谱线路",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png" group-title="📺靠谱线路",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 tvg-name="翡翠台北美版(TVB J1)" tvg-logo="https://live.fanmingming.cn/tv/翡翠台北美版(TVB J1).png"" group-title="📺靠谱线路",J1
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 tvg-name="TVB J1" tvg-logo="https://live.fanmingming.cn/tv/TVB J1.png"" group-title="📺靠谱线路",J1
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.cn/tv/TVB Plus.png" group-title="📺靠谱线路",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.cn/tv/TVB Plus.png" group-title="📺靠谱线路",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻.png" group-title="📺靠谱线路",无线新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻.png" group-title="📺靠谱线路",无线新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://live.fanmingming.cn/tv/VIUTV.png" group-title="📺靠谱线路",无线新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
