@@ -152,6 +152,92 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 #EXTINF:-1 group-title="🏛靠谱频道" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/AnimaxHK.png",Animax (HK)
+http://php.jdshipin.com/TVOD/iptv.php?id=animaxhk
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/AXN.png",AXN
+http://php.jdshipin.com/TVOD/iptv.php?id=axn
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/Channel5HD.png",Channel 5 HD
+http://php.jdshipin.com/TVOD/iptv.php?id=channel5hd
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/Channel8HD.png",Channel 8 HD
+http://php.jdshipin.com/TVOD/iptv.php?id=channel8hd
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/ChannelUHD.png",Channel U HD
+http://php.jdshipin.com/TVOD/iptv.php?id=channeluhd
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/myTVSUPER18.png",myTV SUPER 18 台
+http://php.jdshipin.com/TVOD/iptv.php?id=mytvsuper18
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/PopC.png",PopC
+http://php.jdshipin.com/TVOD/iptv.php?id=popc
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/ROCKAction.png",ROCK Action
+http://php.jdshipin.com/TVOD/iptv.php?id=rockaction
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/TVBPlus.png",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbplus
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/tvN.png",tvN
+http://php.jdshipin.com/TVOD/iptv.php?id=tvn
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/明珠剧集台 (北美).png", 明珠剧集台 (北美)
+http://php.jdshipin.com/TVOD/iptv.php?id=ch-19
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png", 明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=ch-2
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/無線新聞台.png", 無線新聞台
+http://php.jdshipin.com/TVOD/iptv.php?id=ch-1
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/美亞電影台 (HK).png", 美亞電影台 (HK)
+http://php.jdshipin.com/TVOD/iptv.php?id=hk
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/翡翠剧集台 (北美).png", 翡翠剧集台 (北美)
+http://php.jdshipin.com/TVOD/iptv.php?id=ch-18
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png", 翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=ch-0
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/翡翠综合台 (北美).png", 翡翠综合台 (北美)
+http://php.jdshipin.com/TVOD/iptv.php?id=ch-17
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/鳳凰衛視中文台.png", 鳳凰衛視中文台
+http://php.jdshipin.com/TVOD/iptv.php?id=ch-3
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/鳳凰衛視資訊台.png", 鳳凰衛視資訊台
+http://php.jdshipin.com/TVOD/iptv.php?id=ch-4
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/鳳凰衛視香港台.png", 鳳凰衛視香港台
+http://php.jdshipin.com/TVOD/iptv.php?id=ch-5
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/JapanNews24HLIVE.png",Japan News 24H LIVE
+http://php.jdshipin.com/TVOD/iptv.php?id=japannews24hlive
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/日テレ NEWS LIVE.png", 日テレ NEWS LIVE
+http://php.jdshipin.com/TVOD/iptv.php?id=ntv
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/天映电影.png", 天映电影
+http://php.jdshipin.com/TVOD/iptv.php?id=aktv2-ch-3
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/東森洋片.png", 東森洋片
+http://php.jdshipin.com/TVOD/iptv.php?id=aktv2-ch-2
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/東森電影.png", 東森電影
+http://php.jdshipin.com/TVOD/iptv.php?id=aktv2-ch-1
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/緯來體育台.png", 緯來體育台
+http://php.jdshipin.com/TVOD/iptv.php?id=aktv2-ch-0
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/CNA.png",CNA
+http://php.jdshipin.com/TVOD/iptv.php?id=cna
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/KPOP+.png",KPOP+
+http://php.jdshipin.com/TVOD/iptv.php?id=kpop
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/朝鲜恩情台.png", 朝鲜恩情台
+http://php.jdshipin.com/TVOD/iptv.php?id=aktv3-ch-0
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/8TV.png",8TV
+http://php.jdshipin.com/TVOD/iptv.php?id=8tv
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/AstroFootball.png",Astro Football
+http://php.jdshipin.com/TVOD/iptv.php?id=astro-ch-0
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/AstroSportsPlus.png",Astro Sports Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=astrosportsplus
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/MyCinemaEuropeHD我的歐洲電影.png",My Cinema Europe HD 我的歐洲電影
+http://php.jdshipin.com/TVOD/iptv.php?id=taiwan-ch-3
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/TVBS.png",TVBS
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbs
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/台視.png", 台視
+http://php.jdshipin.com/TVOD/iptv.php?id=taiwan-ch-4
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/影迷數位紀實台.png", 影迷數位紀實台
+http://php.jdshipin.com/TVOD/iptv.php?id=taiwan-ch-2
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/民視.png", 民視
+http://php.jdshipin.com/TVOD/iptv.php?id=taiwan-ch-1
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/民視第一台.png", 民視第一台
+http://php.jdshipin.com/TVOD/iptv.php?id=taiwan-ch-0
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/龍華日韓台.png", 龍華日韓台
+http://php.jdshipin.com/TVOD/iptv.php?id=taiwan-ch-5
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png",TVB 星河
+http://php.jdshipin.com/TVOD/iptv.php?id=tvb
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/TVBS新聞.png",TVBS 新聞
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbs-news
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png", 中天新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=zhongtian-ch-0
+#EXTINF:-1 group-title="AKTV" tvg-logo="https://live.fanmingming.cn/tv/東森新聞.png", 東森新聞
+http://php.jdshipin.com/TVOD/iptv.php?id=zhongtian-ch-1
 #EXTINF:-1 group-title="🕘️测试备用" ,翡翠台
 https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
 #EXTINF:-1 group-title="🕘️测试备用" ,翡翠台 backup
