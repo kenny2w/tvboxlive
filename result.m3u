@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="🕘️更新时间" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",2025-06-23 11:26:47
+#EXTINF:-1 group-title="🕘️更新时间" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",2025-07-02 15:26:47
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",CCTV-1
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
