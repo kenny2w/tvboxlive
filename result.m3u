@@ -95,6 +95,35 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 #EXTINF:-1 group-title="🏛靠谱频道" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
+#EXTINF:-1 group-title="BXTV 新源" tvg-name="myTV SUPER 18 台" tvg-logo="https://epg.112114.xyz/logo/myTV SUPER 18 台.png"epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",myTV SUPER 18 台
+http://bxtv.3a.ink/api.php?id=18
+#EXTINF:-1 group-title="BXTV 新源" tvg-name="TVB Plus" tvg-logo="https://epg.112114.xyz/logo/TVB Plus.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVB Plus
+http://bxtv.3a.ink/api.php?id=tvbp
+#EXTINF:-1 group-title="BXTV 新源" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png"epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 明珠台
+http://bxtv.3a.ink/api.php?id=mz
+#EXTINF:-1 group-title="BXTV 新源" tvg-name="無線新聞台" tvg-logo="https://epg.112114.xyz/logo/無線新聞台.png"epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 無線新聞台
+http://bxtv.3a.ink/api.php?id=wxxw
+#EXTINF:-1 group-title="BXTV 新源" tvg-name="美亞電影台" tvg-logo="https://epg.112114.xyz/logo/美亞電影台.png"epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 美亞電影台
+http://bxtv.3a.ink/api.php?id=meiya
+#EXTINF:-1 group-title="BXTV 新源" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png"epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 翡翠台
+http://bxtv.3a.ink/api.php?id=fct
+#EXTINF:-1 group-title="BXTV 新源" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.112114.xyz/logo/鳳凰衛視中文台.png"epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 鳳凰衛視中文台
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 group-title="BXTV 新源" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.112114.xyz/logo/鳳凰衛視資訊台.png"epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 鳳凰衛視資訊台
+http://bxtv.3a.ink/api.php?id=fhzx
+#EXTINF:-1 group-title="BXTV 新源" tvg-name="鳳凰衛視香港台" tvg-logo="https://epg.112114.xyz/logo/鳳凰衛視香港台.png"epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 鳳凰衛視香港台
+http://bxtv.3a.ink/api.php?id=fhhk
+#EXTINF:-1 group-title="BXTV 新源" tvg-name="NOW 新闻" tvg-logo="https://epg.112114.xyz/logo/NOW新闻.png"epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NOW 新闻
+http://bxtv.3a.ink/api.php?id=now
+#EXTINF:-1 group-title="BXTV 新源" tvg-name="緯來體育" tvg-logo="https://epg.112114.xyz/logo/緯來體育.png"epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 緯來體育
+http://bxtv.3a.ink/api.php?id=wlty
+#EXTINF:-1 group-title="BXTV 新源" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/中天新聞台.png"epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 中天新聞台
+http://bxtv.3a.ink/api.php?id=ztxw
+#EXTINF:-1 group-title="BXTV 新源" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png"epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 广东体育
+http://bxtv.3a.ink/api.php?id=gdty
+#EXTINF:-1 group-title="BXTV 新源" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png"epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 广东珠江
+http://bxtv.3a.ink/api.php?id=gdzj
 #EXTINF:-1 group-title="🕘️测试备用" ,翡翠台
 https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
 #EXTINF:-1 group-title="🕘️测试备用" ,翡翠台 backup
@@ -719,4 +748,5 @@ http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 
 #EXTINF:59 aktv-group="zhongtian" tvg-id="zhongtian/CH-1" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",東森新聞
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+
 
