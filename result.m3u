@@ -47,7 +47,11 @@ http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 group-title="🏛靠谱频道" tvg-logo="https://live.fanmingming.cn/tv/RTHK32.png",RTHK32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视4K.png" http-user-agent="aliplayer" group-title="🏛靠谱频道",东方卫视4K
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视4K.png" http-user-agent="aliplayer" group-title="🏛靠谱频道",湖南卫视4K
+http://8.138.7.223/tv/api.php?id=hnws4k
+#http://101.35.240.114:88/live.php?id=湖南卫视4K
 
 #EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5.png" group-title="央视世界杯",cctv5
 http://82.156.243.185:36888/av3a/cctv5n.m3u8
