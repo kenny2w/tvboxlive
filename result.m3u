@@ -43,15 +43,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 group-title="🏛靠谱频道" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png",广东体育
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-#EXTINF:-1 group-title="🏛靠谱频道" tvg-logo="https://live.fanmingming.cn/tv/澳视澳门.png",澳视澳门
-http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 group-title="🏛靠谱频道" tvg-logo="https://live.fanmingming.cn/tv/澳视卫星.png",澳视卫星
-http://php.jdshipin.com/TVOD/iptv.php?id=as
 #EXTINF:-1 group-title="🏛靠谱频道" tvg-logo="https://live.fanmingming.cn/tv/RTHK31.png",RTHK31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 group-title="🏛靠谱频道" tvg-logo="https://live.fanmingming.cn/tv/RTHK32.png",RTHK32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-
 
 
 #EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5.png" group-title="世界杯",cctv5
