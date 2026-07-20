@@ -24,9 +24,10 @@ https://cdn6.cc.cd/163189/wxxw
 https://fast.hidns.vip/163189/now
 #EXTINF:-1 group-title="KDW专供"  tvg-name="NOW新闻" tvg-logo="https://live.fanmingming.cn/tv/NOW新闻.png",NOW新闻
 https://cdn.qd.je/163189.php?id=now
-
-
-
+#EXTINF:-1 group-title="KDW专供"  tvg-name="ABCNEWS AUSTRALIA" tvg-logo="https://live.fanmingming.cn/tv/ABCNEWS AUSTRALIA.png",ABCNEWS AUSTRALIA
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
+#EXTINF:-1 group-title="KDW专供"  tvg-name="RTHK32" tvg-logo="https://live.fanmingming.cn/tv/RTHK32.png",RTHK32
+https://cdn.qd.je/163189.php?id=rthk32
 
 
 #EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-name="ABC News Live" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ABCNewsLive/abc_logo_new.png" group-title="News",ABC News Live
