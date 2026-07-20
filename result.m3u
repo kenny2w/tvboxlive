@@ -10,6 +10,16 @@ https://cdn.qd.je/163189/fhzx
 https://cdn.qd.je/163189/fhhk
 #EXTINF:-1 group-title="凤凰"  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",翡翠台
 https://cdn.qd.je/163189/fct
+#EXTINF:-1 group-title="凤凰"  tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻.png",无线新闻
+http://beishan008.asuscomm.com:8890/bysid/83.m3u8
+#EXTINF:-1 group-title="凤凰"  tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻.png",无线新闻
+https://live.catvod.com/iptv.php?id=tvbxw01
+#EXTINF:-1 group-title="凤凰"  tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻.png",无线新闻
+http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
+#EXTINF:-1 group-title="凤凰"  tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻.png",无线新闻
+https://cdn6.cc.cd/163189/wxxw
+#EXTINF:-1 group-title="凤凰"  tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻.png",无线新闻
+https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/wxxw
 
 #EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-name="ABC News Live" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ABCNewsLive/abc_logo_new.png" group-title="News",ABC News Live
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/59d7ff97-2217-4d3d-a0c9-7f7e6d8dae8e/5.m3u8
