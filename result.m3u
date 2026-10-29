@@ -34,6 +34,10 @@ https://cdn.qd.je/163189.php?id=now
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
 #EXTINF:-1 group-title="KDW专供"  tvg-name="RTHK32" tvg-logo="https://live.fanmingming.cn/tv/RTHK32.png",RTHK32
 https://fast.hidns.vip/163189/rthk32
+#EXTINF:-1 group-title="KDW专供"  tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png",广东体育
+http://198.204.228.26/live/gdty.m3u8?ysp
+#EXTINF:-1 group-title="KDW专供"  tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png",广东体育
+http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 
 
 #EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-name="ABC News Live" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ABCNewsLive/abc_logo_new.png" group-title="News",ABC News Live
